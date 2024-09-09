@@ -59,8 +59,8 @@ This project was carried out in collaboration with EVahan (a startup company in 
 ![fig14](Pictures/EV_conversion/BatteryDesign.png)
 ![fig15](Pictures/EV_conversion/VehicleResistive.png)
 #### Accomplishments
-- Completely operational vehicle
-- Safe and road compliant
+- Manufacture a completely operational vehicle
+- Safe and road compliant vehicle
 - Full electric with regenerative braking and 3 driving modes
 
 
