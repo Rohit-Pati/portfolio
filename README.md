@@ -7,7 +7,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 #### HOW was it done?
 - Select optimal design parameters from literature review.
 - Develope the CAD model and simulate for viability of the mechanisms.
-- Design a power transmission system as per the torque requirement a along with bushings and brackets.
+- Design a power transmission system as per the torque requirement along with bushings and brackets.
 - Operate kinematic simulation of the assembled design.
 - Design for manufacturing and Manufacture by 3D printing.
 ![fig2](Pictures/Cyclorotor/Product.png)
