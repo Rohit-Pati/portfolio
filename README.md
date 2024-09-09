@@ -14,9 +14,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Operate kinematic simulation of the assembled design.
 - Design for manufacturing and Manufacture by 3D printing.
 
-![fig3](Pictures/Cyclorotor/IMG3.jpg)
-![fig4](Pictures/Cyclorotor/IMG4.jpg)
-![fig5](Pictures/Cyclorotor/IMG5.png)
+![fig2](Pictures/Cyclorotor/Product.png)
 
 #### Accomplishments !!!
 - Precise 3D printed parts.
