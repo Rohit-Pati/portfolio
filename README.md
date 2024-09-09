@@ -17,6 +17,8 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Perfect fits of the assembly parts.
 - Successful custom power transmission system development.
 - Successful operation and experimentation.
+- Observation of 360 degree thrust vectoring capability.
+- Thrust direction is always opposite to the eccentric point in case of four blades system.
 ![fig3](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
 
