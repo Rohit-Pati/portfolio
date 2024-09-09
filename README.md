@@ -3,7 +3,6 @@
 ## 1. Experimental Study of Thrust Vectoring in Cyclorotor
 
 ![fig1](Pictures/Cyclorotor/Design.png)
-
 #### WHAT is this projcet?
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
 
@@ -13,7 +12,6 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Design a power transmission system as per the torque requirement a along with bushings and brackets.
 - Operate kinematic simulation of the assembled design.
 - Design for manufacturing and Manufacture by 3D printing.
-
 ![fig2](Pictures/Cyclorotor/Product.png)
 
 #### Accomplishments !!!
@@ -21,17 +19,16 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Perfect fits of the assembly parts.
 - Successful custom power transmission system development.
 - Successful operation and experimentation.
-
 ![fig3](Pictures/Cyclorotor/Assembly_Draft.jpg)
+
+
 
 ## 2. Shireto
 ![fig4](Pictures/Shireto/Chassis_design.png)
-
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Cmapus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions gloablly. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
 
 The car we developed was designed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium used to manufacture the chassis. Body was manufactured using fiberglass applying the casting method. Powertrain consisted hub-motor attached wheel and a self developed controller powered by LiFePo battery.
-
 ![fig5](Pictures/Shireto/Chassis.png)
 ![fig6](Pictures/Shireto/Manufacture.png)
 
@@ -42,7 +39,6 @@ The car we developed was designed based on the guidelines of Shell Eco Marathon 
 - Casted fibreglass body panel
 - Hub-motor powertrain system
 ![fig7](Pictures/Shireto/Product.png)
-
 
 #### Accomplishments
 - Guidelines compliant competitive vehicle
@@ -55,7 +51,6 @@ The car we developed was designed based on the guidelines of Shell Eco Marathon 
 
 #### WHAT is this project?
 This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an ic engine powered two-wheeler vehicle into pure electric.
-
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
 
 #### HOW is it done?
@@ -64,7 +59,6 @@ This project was carried out in collaboration with EVahan (a startup company in 
 - Swing-arm modification for the installment of motor.
 - Battery casing attachment to the chassis.
 - Redesigning the wiring system.
-
 ![fig14](Pictures/EV_conversion/BatteryDesign.png)
 ![fig15](Pictures/EV_conversion/VehicleResistive.png)
 
@@ -73,18 +67,16 @@ This project was carried out in collaboration with EVahan (a startup company in 
 - Safe and road compliant
 - Full electric with regenerative braking and 3 driving modes
 
-## 4. Battery Casing
 
+## 4. Battery Casing
 #### WHAT is this project?
 A fire insulated battery casing was designed and manufactured in collaboration with EVahan (a startup company in Nepal) with my resposibility as General Engineer.
-
 ![fig16](Pictures/Battery_casing/Casing_design.png)
 
 #### HOW is it done?
 - Dimensions extraction from the battery cluster, BMS, display console, and power socket
 - CAD part and assembly design
 - Manufacture using 3D printing technique
-
 ![fig17](Pictures/Battery_casing/IMG1.jpg)
 
 #### Accomplishments
