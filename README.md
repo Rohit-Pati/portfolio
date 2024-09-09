@@ -22,19 +22,18 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Successful custom power transmission system development.
 - Successful operation and experimentation.
 
-![fig6](Pictures/Cyclorotor/Assembly_Draft.jpg)
+![fig3](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
 ## 2. Shireto
-![fig7](Pictures/Shireto/Chassis_design.png)
+![fig4](Pictures/Shireto/Chassis_design.png)
 
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Cmapus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions gloablly. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
 
 The car we developed was designed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium used to manufacture the chassis. Body was manufactured using fiberglass applying the casting method. Powertrain consisted hub-motor attached wheel and a self developed controller powered by LiFePo battery.
 
-![fig8](Pictures/Shireto/Chassis.png)
-![fig9](Pictures/Shireto/IMG1.jpg)
-![fig10](Pictures/Shireto/IMG2.jpg)
+![fig5](Pictures/Shireto/Chassis.png)
+![fig6](Pictures/Shireto/Manufacture.png)
 
 #### HOW is it done?
 - CAD modeling and CAE analysis of the structures
@@ -42,9 +41,8 @@ The car we developed was designed based on the guidelines of Shell Eco Marathon 
 - Chassis fabricaion using MIG welding on aluminium tubes
 - Casted fibreglass body panel
 - Hub-motor powertrain system
+![fig7](Pictures/Shireto/Product.png)
 
-![fig11](Pictures/Shireto/IMG3.jpg)
-![fig12](Pictures/Shireto/IMG4.webp)
 
 #### Accomplishments
 - Guidelines compliant competitive vehicle
