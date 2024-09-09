@@ -42,7 +42,7 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 #### Accomplishments
 - Guidelines compliant competitive vehicle
 - Optimal aerodynamics
-- Stern chassis structure
+- Rigid chassis structure
 - 70+ Km range with 1KWh of energy
 
 
