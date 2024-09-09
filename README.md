@@ -48,7 +48,7 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 
 ## 3. EV Conversion
 #### WHAT is this project?
-This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an ic engine powered two-wheeler vehicle into pure electric.
+This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an IC engine powered two-wheeler vehicle into pure electric.
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
 #### HOW is it done?
 - Motor sizing according to the client's drive cycle using MATLAB/Simulink.
