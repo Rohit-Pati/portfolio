@@ -2,8 +2,7 @@
 
 ## 1. Experimental Study of Thrust Vectoring in Cyclorotor
 
-![fig1](Pictures/Cyclorotor/IMG1.png)
-![fig2](Pictures/Cyclorotor/IMG2.png)
+![fig1](Pictures/Cyclorotor/Design.png)
 
 #### WHAT is this projcet?
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
