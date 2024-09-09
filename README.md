@@ -28,7 +28,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
 
-The car we developed was designed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium. Body was manufactured using fiberglass applying the casting method. Powertrain consisted a hub-motor attached wheel and a self developed controller powered by LiFePo battery.
+The car was designed and developed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium. Body was manufactured using fiberglass applying the casting method. Powertrain consisted a hub-motor attached wheel and a self developed controller powered by LiFePo battery.
 ![fig5](Pictures/Shireto/Chassis.png)
 ![fig6](Pictures/Shireto/Manufacture.png)
 #### HOW is it done?
