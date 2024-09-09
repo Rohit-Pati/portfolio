@@ -75,5 +75,5 @@ A fire insulated battery casing was designed and manufactured in collaboration w
 ![fig17](Pictures/Battery_casing/IMG1.jpg)
 #### Accomplishments
 - Perfectly fit casing with fire insulation inside
-- Proper placment of display and power sockets
+- Proper placement of display and power sockets
 - Well developed product
