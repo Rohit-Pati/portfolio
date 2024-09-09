@@ -1,11 +1,9 @@
 # My Projects Insights
 
 ## 1. Experimental Study of Thrust Vectoring in Cyclorotor
-
 ![fig1](Pictures/Cyclorotor/Design.png)
 #### WHAT is this project?
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
-
 #### HOW was it done?
 - Select optimal design parameters from literature review.
 - Develope the CAD model and simulate for viability of the mechanisms.
@@ -13,8 +11,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Operate kinematic simulation of the assembled design.
 - Design for manufacturing and Manufacture by 3D printing.
 ![fig2](Pictures/Cyclorotor/Product.png)
-
-#### Accomplishments !!!
+#### Accomplishments
 - Precise 3D printed parts.
 - Perfect fits of the assembly parts.
 - Successful custom power transmission system development.
@@ -31,7 +28,6 @@ Shireto is a dynamic student-led group of motorsport enthusiasts from various di
 The car we developed was designed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium used to manufacture the chassis. Body was manufactured using fiberglass applying the casting method. Powertrain consisted hub-motor attached wheel and a self developed controller powered by LiFePo battery.
 ![fig5](Pictures/Shireto/Chassis.png)
 ![fig6](Pictures/Shireto/Manufacture.png)
-
 #### HOW is it done?
 - CAD modeling and CAE analysis of the structures
 - Mannequin analysis for driver comfort
@@ -48,11 +44,9 @@ The car we developed was designed based on the guidelines of Shell Eco Marathon 
 
 
 ## 3. EV Conversion
-
 #### WHAT is this project?
 This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an ic engine powered two-wheeler vehicle into pure electric.
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
-
 #### HOW is it done?
 - Motor sizing according to the client's drive cycle using MATLAB/Simulink.
 - Motor selection and battery sizing for the desired range.
@@ -61,7 +55,6 @@ This project was carried out in collaboration with EVahan (a startup company in 
 - Redesigning the wiring system.
 ![fig14](Pictures/EV_conversion/BatteryDesign.png)
 ![fig15](Pictures/EV_conversion/VehicleResistive.png)
-
 #### Accomplishments
 - Completely operational vehicle
 - Safe and road compliant
@@ -72,13 +65,11 @@ This project was carried out in collaboration with EVahan (a startup company in 
 #### WHAT is this project?
 A fire insulated battery casing was designed and manufactured in collaboration with EVahan (a startup company in Nepal) with my resposibility as General Engineer.
 ![fig16](Pictures/Battery_casing/Casing_design.png)
-
 #### HOW is it done?
 - Dimensions extraction from the battery cluster, BMS, display console, and power socket
 - CAD part and assembly design
 - Manufacture using 3D printing technique
 ![fig17](Pictures/Battery_casing/IMG1.jpg)
-
 #### Accomplishments
 - Perfectly fit casing with fire insulation inside
 - Proper placment of display and power sockets
