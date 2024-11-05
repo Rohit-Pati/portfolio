@@ -10,7 +10,9 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Design a power transmission system as per the torque requirement along with bushings and brackets.
 - Operate kinematic simulation of the assembled design.
 - Design for manufacturing and manufacture by 3D printing.
+- Design load-cell based test rig
 ![fig2](Pictures/Cyclorotor/Product.png)
+![fig3](Pictures/Cyclorotor/loadcellcircuit.png)
 
 #### Accomplishments
 - Precise 3D printed parts.
@@ -19,7 +21,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Successful operation and experimentation.
 - Observation of 360 degree thrust vectoring capability.
 - Thrust direction observed to be always opposite to the eccentric point in case of four blades system.
-![fig3](Pictures/Cyclorotor/Assembly_Draft.jpg)
+![fig4](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
 
 
@@ -32,10 +34,10 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 ![fig5](Pictures/Shireto/Chassis.png)
 ![fig6](Pictures/Shireto/Manufacture.png)
 #### HOW is it done?
-- CAD modeling and CAE analysis of the structures
-- Mannequin analysis for driver comfort
-- Chassis fabricaion using MIG welding on aluminium tubes
-- Casted fibreglass body panel
+- CAD modeling (CATIA) and CFD analysis (ANSYS) of the structures
+- Ergonomic analysis using Human Builder Workbench in CATIA
+- Chassis fabricaion using TIG welding on aluminium Al 6063 tubes
+- Casted fibreglass body panel using polyester resin with cobalt catalyst and hardener
 - Hub-motor powertrain system
 ![fig7](Pictures/Shireto/Product.png)
 
