@@ -23,9 +23,31 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Thrust direction observed to be always opposite to the eccentric point in case of four blades system.
 ![fig4](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
+## 2. Micromouse
+This project was done for participating in International Micromouse Competition organized by
+[TechFest2019-20 at IIT Bombay](https://techfest.org/). It is
+the furtherance of the Tremaux algorithm by employing a potential value algorithm in conjunction, with improving search in a micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
 
+## Flow Chart of the Optimized Algorithm
 
-## 2. Shireto
+![flowchart](/Pictures/Micromouse/flow_chart.png)
+
+Here are the three different versions of micromouse designed and fabricated. The bot at the center was used during the IMC-2020.
+![bots](/Pictures/Micromouse/bots.png)
+
+## Citation:
+You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/09/IJAE-2020-Vol.03-No.02/7_Sanjaya_Vol3_No2.pdf?ckattempt=1).
+```
+@article{rijalinternational,
+  title={Optimizing Tremaux Algorithm in Micromouse Using Potential Values},
+  journal={International Journal of Advanced Engineering},
+  author={Rijal, Sanjay and Nepal, Rabin and Lwagun, Rhimesh and Pati, Rohit and Bhatta, Janardan},
+  volume={3},
+  issue={2},
+  year={2020}
+}
+
+## 3. Shireto
 ![fig4](Pictures/Shireto/Chassis_design.png)
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
@@ -48,7 +70,7 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 - 70+ Km range with 1KWh of energy
 
 
-## 3. EV Conversion
+## 4. EV Conversion
 #### WHAT is this project?
 This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an IC engine powered two-wheeler vehicle into pure electric.
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
@@ -66,7 +88,7 @@ This project was carried out in collaboration with EVahan (a startup company in 
 - Full electric with regenerative braking and 3 driving modes
 
 
-## 4. Battery Casing
+## 5. Battery Casing
 #### WHAT is this project?
 A fire insulated battery casing was designed and manufactured in collaboration with EVahan (a startup company in Nepal) with my resposibility as General Engineer.
 ![fig16](Pictures/Battery_casing/Casing_design.png)
