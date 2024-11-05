@@ -46,6 +46,7 @@ You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/0
   issue={2},
   year={2020}
 }
+```
 
 ## 3. Shireto
 ![fig4](Pictures/Shireto/Chassis_design.png)
