@@ -13,6 +13,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Design load-cell based test rig
 ![fig2](Pictures/Cyclorotor/Product.png)
 ![fig3](Pictures/Cyclorotor/loadcellcircuit.png)
+![file](Resources/Cyclorotor.pdf)
 
 #### Accomplishments
 - Precise 3D printed parts.
