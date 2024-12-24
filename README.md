@@ -13,7 +13,6 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Design load-cell based test rig
 ![fig2](Pictures/Cyclorotor/Product.png)
 ![fig3](Pictures/Cyclorotor/loadcellcircuit.png)
-![file](Resources/Cyclorotor.pdf)
 
 #### Accomplishments
 - Precise 3D printed parts.
@@ -23,6 +22,8 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Observation of 360 degree thrust vectoring capability.
 - Thrust direction observed to be always opposite to the eccentric point in case of four blades system.
 ![fig4](Pictures/Cyclorotor/Assembly_Draft.jpg)
+
+Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 
 ## 2. Micromouse
 This project was done for participating in International Micromouse Competition organized by
@@ -35,6 +36,8 @@ the furtherance of the Tremaux algorithm by employing a potential value algorith
 
 Here are the three different versions of micromouse designed and fabricated. The bot at the center was used during the IMC-2020.
 ![bots](/Pictures/Micromouse/bots.png)
+
+Report on this project is available [here](https://drive.google.com/file/d/183wrktVCq5AOybMiit0GX_J2vyt4wZQf/view?usp=sharing)
 
 ## Citation:
 You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/09/IJAE-2020-Vol.03-No.02/7_Sanjaya_Vol3_No2.pdf?ckattempt=1).
