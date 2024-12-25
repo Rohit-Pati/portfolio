@@ -91,23 +91,33 @@ This project was carried out in collaboration with EVahan (a startup company in 
 - Redesigning the wiring system.
 ![fig14](Pictures/EV_conversion/BatteryDesign.png)
 ![fig15](Pictures/EV_conversion/VehicleResistive.png)
+
 #### Accomplishments
 - Manufacture a completely operational vehicle
 - Safe and road compliant vehicle
 - Full electric with regenerative braking and 3 driving modes
 
-
-## 5. Battery Casing
+## 5. Battery Pack Development
 #### WHAT is this project?
-A fire insulated battery casing was designed and manufactured in collaboration with EVahan (a startup company in Nepal) with my resposibility as General Engineer.
-![fig16](Pictures/Battery_casing/Casing_design.png)
+Battery packs are built by combining battery cells in parallel and series configuration. This project is aimed at manufacturing a custom battery pack for electric bicycles. A 36V 15Ah battery pack with a fire-insulated cover equipped with charge-discharge ports, a display port and function keys was designed and manufactured.
 
 ##### Report on this project is available [here](https://drive.google.com/file/d/1CvMc2M0b08G_HyTX1NpBqHgKvPnaDJ8o/view?usp=sharing)
 #### HOW is it done?
+- Battery configuration was calculated for series and parallel.
+- A 3.7V 2600mAh lithium 18650 battery cells were used.
+- 6 cells were connceted in parallel to form a cluster and such 10 clusters were connected in series.
 - Dimensions extraction from the battery cluster, BMS, display console, and power socket
-- CAD part and assembly design
-- Manufacture using 3D printing technique
-![fig17](Pictures/Battery_casing/IMG1.jpg)
+- 3D model of the battery cover was designed in Catia V5.
+- Manufacture battery cover using 3D printing technique.
+- FRP board and fiberglass sheets were used to insulate the battery pack.
+- Assemble battery cover and Test.
+
+![fig16](Pictures/Battery_casing/547320747141988.png)
+
+![fig17](Pictures/Battery_casing/Casing_design.png)
+
+![fig18](Pictures/Battery_casing/IMG1.jpg)
+
 #### Accomplishments
 - Perfectly fit casing with fire insulation inside
 - Proper placement of display and power sockets
