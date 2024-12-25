@@ -1,6 +1,7 @@
 # My Projects Insights
 
 ## 1. Experimental Study of Thrust Vectoring in Cyclorotor
+##### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 ![fig1](Pictures/Cyclorotor/Design.png)
 #### WHAT is this project?
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
@@ -23,7 +24,6 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Thrust direction observed to be always opposite to the eccentric point in case of four blades system.
 ![fig4](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
-#### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 
 ## 2. Micromouse
 This project was done for participating in International Micromouse Competition organized by
