@@ -7,8 +7,8 @@
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the thrust vector's behavior in relation to phase angle of eccentricity for the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
 ##### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 #### HOW was it done?
-- Selection optimal design parameters from previous experiments.
-- Develope the CAD model and simulate for viability of the mechanisms.
+- Selection of optimal design parameters from previous experiments.
+- Develop the CAD model and simulate for viability of the mechanisms.
 - Design a power transmission system as per the torque requirement along with bushings and brackets.
 - Validate the functioning with kinematic simulation of the assembled design.
 - Design for manufacturing and manufacture by 3D printing.
@@ -27,9 +27,13 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 
 
 ## 2. Micromouse
-This project was done for participating in International Micromouse Competition organized by
-[TechFest2019-20 at IIT Bombay](https://techfest.org/). It is
-the furtherance of the Tremaux algorithm by employing a potential value algorithm in conjunction, with improving search in a micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
+Our project “Micromouse” is guided by the rules of International Micromouse Competition where an autonomous maze-solving robot has to be developed which is capable of solving a 16*16 maze with each cell of size 18cm. The maze can have different configurations, but the start is always at one of the four corners and the destination is always at the center of the maze. This project was done for participating in International Micromouse Competition organized by
+[TechFest2019-20 at IIT Bombay](https://techfest.org/).
+A micro sized robot was built on PCB board integrating N20 Micro-gear motor, STM32 Bluepill microcontroller, L293D motor driver, MPU9250 IMU sensor, VL530X ssenor and LiPo battery.
+
+![fig5](Pictures/Micromouse/KiCAD.jpg) ![fig6](Pictures/Micromouse/Naanu.jpg)
+
+It is the furtherance of the Tremaux algorithm by employing a potential value algorithm in conjunction, with improving search in a micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
 
 ##### Report on this project is available [here](https://drive.google.com/file/d/183wrktVCq5AOybMiit0GX_J2vyt4wZQf/view?usp=sharing)
 
@@ -39,6 +43,7 @@ the furtherance of the Tremaux algorithm by employing a potential value algorith
 
 Here are the three different versions of micromouse designed and fabricated. The bot at the center was used during the IMC-2020.
 ![bots](/Pictures/Micromouse/bots.png)
+![fig7](Pictures/Micromouse/robo.jpg)
 
 
 ## Citation:
@@ -55,20 +60,20 @@ You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/0
 ```
 
 ## 3. Shireto
-![fig4](Pictures/Shireto/Chassis_design.png)
+![fig8](Pictures/Shireto/Chassis_design.png)
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
 
 The car was designed and developed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium. Body was manufactured using fiberglass applying the casting method. Powertrain consisted a hub-motor attached wheel and a self developed controller powered by LiFePo battery.
-![fig5](Pictures/Shireto/Chassis.png)
-![fig6](Pictures/Shireto/Manufacture.png)
+![fig9](Pictures/Shireto/Chassis.png)
+![fig10](Pictures/Shireto/Manufacture.png)
 #### HOW is it done?
 - CAD modeling (CATIA) and CFD analysis (ANSYS) of the structures
 - Ergonomic analysis using Human Builder Workbench in CATIA
 - Chassis fabricaion using TIG welding on aluminium Al 6063 tubes
 - Casted fibreglass body panel using polyester resin with cobalt catalyst and hardener
 - Hub-motor powertrain system
-![fig7](Pictures/Shireto/Product.png)
+![fig11](Pictures/Shireto/Product.png)
 
 #### Accomplishments
 - Guidelines compliant competitive vehicle
