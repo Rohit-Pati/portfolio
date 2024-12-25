@@ -31,9 +31,10 @@ Our project “Micromouse” is guided by the rules of International Micromouse 
 [TechFest2019-20 at IIT Bombay](https://techfest.org/).
 A micro sized robot was built on PCB board integrating N20 Micro-gear motor, STM32 Bluepill microcontroller, L293D motor driver, MPU9250 IMU sensor, VL530X ssenor and LiPo battery.
 
-![fig5](Pictures/Micromouse/KiCAD.jpg) ![fig6](Pictures/Micromouse/Naanu.jpg)
+![fig5](Pictures/Micromouse/KiCAD.jpg)
+![fig6](Pictures/Micromouse/Naanu.jpg)
 
-It is the furtherance of the Tremaux algorithm by employing a potential value algorithm in conjunction, with improving search in a micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
+However Tremaux algroithm was suitable for controlling the robot, its exploratory nature challenged our time and memory constraint. Thus an optimal algorthim was devleoped employing a potential value algorithm in conjunction with Tremaux improving search and run time in the micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
 
 ##### Report on this project is available [here](https://drive.google.com/file/d/183wrktVCq5AOybMiit0GX_J2vyt4wZQf/view?usp=sharing)
 
@@ -60,11 +61,12 @@ You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/0
 ```
 
 ## 3. Shireto
+[(Website)](https://teamshireto.com)
 ![fig8](Pictures/Shireto/Chassis_design.png)
 #### WHAT is this project?
-Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
+Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon 2021 in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
 
-The car was designed and developed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with few power consumption hence, the structures were designed to the optimal weight to strength ratio with aluminium. Body was manufactured using fiberglass applying the casting method. Powertrain consisted a hub-motor attached wheel and a self developed controller powered by LiFePo battery.
+The car was designed and developed based on the guidelines of Shell Eco Marathon and was pure electric. The main aim was to acquire as much mileage as possible with as less electric power consumption as possible hence, the structures were designed to the optimal weight to strength ratio with aluminium. Body was manufactured using fiberglass applying the casting method. Powertrain consisted a hub-motor attached wheel and a custom developed 36V 15Ah controller powered by LiFePo battery.
 ![fig9](Pictures/Shireto/Chassis.png)
 ![fig10](Pictures/Shireto/Manufacture.png)
 #### HOW is it done?
@@ -84,23 +86,24 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 
 ## 4. EV Conversion
 #### WHAT is this project?
-This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an IC engine powered two-wheeler vehicle into pure electric.
+This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on converting an IC engine powered two-wheeler vehicle into a pure electric.
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
 
 ##### Report on this project is available [here](https://drive.google.com/file/d/10gWs83NFK3THqdROTqU345aQyBRbm8cr/view?usp=sharing)
 #### HOW is it done?
-- Motor sizing according to the client's drive cycle using MATLAB/Simulink.
-- Motor selection and battery sizing for the desired range.
-- Swing-arm modification for the installment of motor.
+- Client's requirements identification.
+- Motor specifications and battery capacity calculation using Simulink Model.
+- Swing-arm modification for the installation of motor.
 - Battery casing attachment to the chassis.
 - Redesigning the wiring system.
-![fig14](Pictures/EV_conversion/BatteryDesign.png)
-![fig15](Pictures/EV_conversion/VehicleResistive.png)
+![fig14](Pictures/EV_conversion/VehicleResistive.png)
+![fig15](Pictures/EV_conversion/BatteryDesign.png)
 
 #### Accomplishments
-- Manufacture a completely operational vehicle
-- Safe and road compliant vehicle
-- Full electric with regenerative braking and 3 driving modes
+- Develop a general simulink model to calculate motor specification and battery capacity.
+- Manufacture a completely operational vehicle.
+- Programmed the motor controller for regenerative braking and 2 driving modes.
+- Safe and road compliant vehicle.
 
 ## 5. Battery Pack Development
 #### WHAT is this project?
