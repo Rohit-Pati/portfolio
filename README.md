@@ -61,7 +61,8 @@ You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/0
 ```
 
 ## 3. Shireto
-[(Website)](https://teamshireto.com)
+[(Team Shireto Website Link)](https://teamshireto.com)
+
 ![fig8](Pictures/Shireto/Chassis_design.png)
 #### WHAT is this project?
 Shireto is a dynamic student-led group of motorsport enthusiasts from various disciplines within Thapathali Campus with the aim to enhance the knowledge on vehicle development and participate in racing events and competitions globally. The project started in 2019 with the aim to participate in Shell Eco Marathon 2021 in EV category and we successfully manufactured a competitive prototype. Now team Shireto is working on formula type cars to participate in Formula Student events.
