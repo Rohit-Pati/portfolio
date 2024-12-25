@@ -1,10 +1,11 @@
 # My Projects Insights
 
 ## 1. Experimental Study of Thrust Vectoring in Cyclorotor
-##### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
+
 ![fig1](Pictures/Cyclorotor/Design.png)
 #### WHAT is this project?
 Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
+##### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 #### HOW was it done?
 - Select optimal design parameters from literature review.
 - Develope the CAD model and simulate for viability of the mechanisms.
@@ -30,6 +31,8 @@ This project was done for participating in International Micromouse Competition 
 [TechFest2019-20 at IIT Bombay](https://techfest.org/). It is
 the furtherance of the Tremaux algorithm by employing a potential value algorithm in conjunction, with improving search in a micromouse.  The fused algorithm running on the STM32 Bluepill microcontroller explores and finds the shortest path in a 16x16 maze. Proximity sensors, gyroscope, and magnetometer together with encoder motors aid the micromouse to understand its surrounding hindrances and make precise movements while traversing through a maze. The optimized algorithm eliminates any paths that may lead the micromouse further away from the center of the maze during the initial run itself and saves a significant amount of time while solving a maze.
 
+##### Report on this project is available [here](https://drive.google.com/file/d/183wrktVCq5AOybMiit0GX_J2vyt4wZQf/view?usp=sharing)
+
 ## Flow Chart of the Optimized Algorithm
 
 ![flowchart](/Pictures/Micromouse/flow_chart.png)
@@ -37,7 +40,6 @@ the furtherance of the Tremaux algorithm by employing a potential value algorith
 Here are the three different versions of micromouse designed and fabricated. The bot at the center was used during the IMC-2020.
 ![bots](/Pictures/Micromouse/bots.png)
 
-Report on this project is available [here](https://drive.google.com/file/d/183wrktVCq5AOybMiit0GX_J2vyt4wZQf/view?usp=sharing)
 
 ## Citation:
 You can find our publication [here](https://ictaes.org/wp-content/uploads/2020/09/IJAE-2020-Vol.03-No.02/7_Sanjaya_Vol3_No2.pdf?ckattempt=1).
@@ -79,6 +81,8 @@ The car was designed and developed based on the guidelines of Shell Eco Marathon
 #### WHAT is this project?
 This project was carried out in collaboration with EVahan (a startup company in Nepal) with my responsibility as General Engineer. It focused on successfully converting an IC engine powered two-wheeler vehicle into pure electric.
 ![fig13](Pictures/EV_conversion/EVConvert.jpg)
+
+##### Report on this project is available [here](https://drive.google.com/file/d/10gWs83NFK3THqdROTqU345aQyBRbm8cr/view?usp=sharing)
 #### HOW is it done?
 - Motor sizing according to the client's drive cycle using MATLAB/Simulink.
 - Motor selection and battery sizing for the desired range.
@@ -97,6 +101,8 @@ This project was carried out in collaboration with EVahan (a startup company in 
 #### WHAT is this project?
 A fire insulated battery casing was designed and manufactured in collaboration with EVahan (a startup company in Nepal) with my resposibility as General Engineer.
 ![fig16](Pictures/Battery_casing/Casing_design.png)
+
+##### Report on this project is available [here](https://drive.google.com/file/d/1CvMc2M0b08G_HyTX1NpBqHgKvPnaDJ8o/view?usp=sharing)
 #### HOW is it done?
 - Dimensions extraction from the battery cluster, BMS, display console, and power socket
 - CAD part and assembly design
