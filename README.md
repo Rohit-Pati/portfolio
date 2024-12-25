@@ -4,13 +4,13 @@
 
 ![fig1](Pictures/Cyclorotor/Design.png)
 #### WHAT is this project?
-Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
+Cyclorotor is a horizontal axis propulsion system which has been brought back to the main stream of research for study of its viability in aviation commuter segement like flying cars. This project aimed to study the thrust vector experimentally to understand the thrust vector's behavior in relation to phase angle of eccentricity for the possibiities of better control and maneuverability of the system. This project was carried out for the partial fulfillment of my bachelor's degree.
 ##### Report on this project is available [here](https://drive.google.com/file/d/1eB-UYTzneUBVJCtv-Sf_ccBZjCfi1CdQ/view?usp=sharing)
 #### HOW was it done?
-- Select optimal design parameters from literature review.
+- Selection optimal design parameters from previous experiments.
 - Develope the CAD model and simulate for viability of the mechanisms.
 - Design a power transmission system as per the torque requirement along with bushings and brackets.
-- Operate kinematic simulation of the assembled design.
+- Validate the functioning with kinematic simulation of the assembled design.
 - Design for manufacturing and manufacture by 3D printing.
 - Design load-cell based test rig
 ![fig2](Pictures/Cyclorotor/Product.png)
@@ -21,7 +21,7 @@ Cyclorotor is a horizontal axis propulsion system which has been brought back to
 - Perfect fits of the assembly parts.
 - Successful custom power transmission system development.
 - Successful operation and experimentation.
-- Observation of 360 degree thrust vectoring capability.
+- Comparison of the system in simulation and real environment.
 - Thrust direction observed to be always opposite to the eccentric point in case of four blades system.
 ![fig4](Pictures/Cyclorotor/Assembly_Draft.jpg)
 
